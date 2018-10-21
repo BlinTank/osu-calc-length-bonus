@@ -5,9 +5,9 @@ import sys
 import configparser
 import requests
 
-key = input("API key (get it at https://osu.ppy.sh/p/api): ")
+key = d2339d7feb9e03827a0f947ef1d27fcf5b767fdf
 
-username = input("profile username? ")
+username = Blintank
 
 # Function used to kill the program entirely.
 
