@@ -7,7 +7,7 @@ import requests
 
 key = input("API key (get it at https://osu.ppy.sh/p/api): ")
 
-username = input("profile username? ")
+username = Blintank
 
 # Function used to kill the program entirely.
 
